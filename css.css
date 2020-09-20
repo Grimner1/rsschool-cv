@@ -1,0 +1,21 @@
+.body2{
+  width: 500px;
+    display: inline-block;
+  }
+
+.cv{
+  position: absolute;
+  height: 100%
+  max-width: 50%;
+  left: 30%;
+  top: 10%;
+}
+
+.foto{
+  width: auto;
+    max-width: 20%;
+  position: absolute;
+  left: 3%;
+  top: 10%;
+  float: left;
+  }
